@@ -8,7 +8,7 @@
 [[Code]](https://github.com/OH-Seoyoung/League_of_Legend_tier_prediction/blob/master/League_of_Legends_tier_estimation.ipynb) | [[Presentation]](https://github.com/OH-Seoyoung/League_of_Legend_tier_prediction/blob/master/presentation.pdf)
 
 ## Dataset
-- 300 dataset with DPS, cs, runtime, KDA, Ward, tier features
+- 300 dataset with DPS, cs, runtime, KDA, Ward, tier Variables
 ```
 [1] OP.GG: LoL Stats, Record Replay, Database, Guide, op.gg
 ```
