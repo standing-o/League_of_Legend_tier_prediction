@@ -13,8 +13,9 @@
 [1] OP.GG: LoL Stats, Record Replay, Database, Guide, op.gg
 ```
 
-## Data Analysis
-- Correlation Analysis
+## Data Analysis  
+- Correlation Analysis  
 <img src="https://github.com/OH-Seoyoung/League_of_Legend_tier_prediction/blob/master/fig/correlation%20analysis.jpg?raw=True" width="70%"> <br>
-- Feature Importance
-<img src="https://github.com/OH-Seoyoung/League_of_Legend_tier_prediction/blob/master/fig/XGB%20Feature%20importance.jpg?raw=True" width="60%">
+
+- Feature Importance  
+<img src="https://github.com/OH-Seoyoung/League_of_Legend_tier_prediction/blob/master/fig/XGB%20Feature%20importance.jpg?raw=True" width="60%"> <br>
