@@ -15,10 +15,6 @@
 
 ## Data Analysis
 - Correlation Analysis
-<div align="center">
-<img src="https://github.com/OH-Seoyoung/League_of_Legend_tier_prediction/blob/master/fig/pairplot.jpg?raw=True" width="48%">
-<img src="https://github.com/OH-Seoyoung/League_of_Legend_tier_prediction/blob/master/fig/correlation%20analysis.jpg?raw=True" width="48%"> <br>
-</div>  
-
+<img src="https://github.com/OH-Seoyoung/League_of_Legend_tier_prediction/blob/master/fig/correlation%20analysis.jpg?raw=True" width="70%"> <br>
 - Feature Importance
-<img src="https://github.com/OH-Seoyoung/League_of_Legend_tier_prediction/blob/master/fig/XGB%20Feature%20importance.jpg?raw=True" width="48%">
+<img src="https://github.com/OH-Seoyoung/League_of_Legend_tier_prediction/blob/master/fig/XGB%20Feature%20importance.jpg?raw=True" width="60%">
