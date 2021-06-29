@@ -19,5 +19,5 @@
 
 <div align="center">
 <img src="https://github.com/OH-Seoyoung/League_of_Legend_tier_prediction/blob/master/fig/correlation%20analysis.jpg?raw=True" width="55%">
-<img src="https://github.com/OH-Seoyoung/League_of_Legend_tier_prediction/blob/master/fig/XGB%20Feature%20importance.jpg?raw=True" width="37%"> <br>
+<img src="https://github.com/OH-Seoyoung/League_of_Legend_tier_prediction/blob/master/fig/XGB%20Feature%20importance.jpg?raw=True" width="40%"> <br>
 </div>  
